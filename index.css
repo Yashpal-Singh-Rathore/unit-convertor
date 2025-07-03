@@ -5,7 +5,7 @@
 
 body {
     margin: 0;
-    background-color: #1C1C1C;
+    background-color: yellow;
 }
 
 h2 {
@@ -20,7 +20,7 @@ h2 {
     height: 83px;
     background-color: #6943FF;
     border: solid white 2px;
-    color: white;
+    color: cyan;
     border-radius: 5px;
     margin-bottom: 25px;
     font-family: inherit;
